@@ -1,0 +1,29 @@
+.card-container-dashboard{
+    padding: 1rem;
+    padding-left: 2rem;
+    background: #272627;
+    border-radius: 20px;
+    color: rgba(255, 255, 255, 0.6);
+    width: 18rem;
+    margin: 30px;
+    
+}
+
+.content-dashboard{
+    padding-top: 0.8rem;
+    font-size: 150%;
+    color: #f1f1f1;
+    text-align: right;
+    padding-right: 1rem;
+    
+}
+.title-dashboard{
+    color:#CFA1FF;
+    font-size: 200%;
+    font-weight: bold
+}
+.card-container-dashboard:hover{
+    transform: translate3d(-10px,-10px,-10px);
+    box-shadow: 4px 4px 4px #CFA1FF;
+    transition: 0.4s;
+}

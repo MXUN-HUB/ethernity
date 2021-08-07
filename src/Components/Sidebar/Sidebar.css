@@ -1,0 +1,13 @@
+.full{
+    position: absolute;
+    height:40px;
+    left:10px; 
+}
+
+.arrow{
+    
+    position: absolute;
+    right:10px;
+    height:40px
+
+}

@@ -1,0 +1,18 @@
+@media only screen and (min-width: 600px) {
+    .dapp-main {
+      padding-left: 250px;
+  }
+}
+.dapp-grid{
+  display: grid;
+  grid-template-columns: 25rem 25rem 25rem;
+}
+.charts{
+  margin-top: 3rem;
+  background: #121212;
+  border-radius: 30px;
+}
+.dapp-grid-blocks{
+  display: grid;
+  grid-template-columns: auto auto;
+}

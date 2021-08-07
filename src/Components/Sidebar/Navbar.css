@@ -1,0 +1,39 @@
+.search{
+  
+  position: absolute;
+  right: 120px;
+  top: 20px;
+  border-radius:50%;
+  width:40px;
+  cursor:pointer;
+  height:40px;
+  background-color:#272627;
+  outline:none;
+  background-image:url("https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-search-strong-256.png");
+  background-size:30px;
+  background-position:50%;
+  font-size:18px;
+  color:grey;
+  background-repeat:no-repeat;
+  
+  transition-property:width, border-radius, background-position, padding-left;
+  transition-duration:0.5s;
+}
+.search:focus{
+  /*transform:rotate(-360deg);*/
+  width:350px;
+  border-radius:5px;
+  cursor:text;
+  padding-left:40px;
+  background-position:5px;
+}
+
+.m{
+
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  width: 40px;
+  
+
+}

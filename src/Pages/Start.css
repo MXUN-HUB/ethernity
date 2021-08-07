@@ -1,0 +1,31 @@
+
+@media only screen and (min-width: 600px) {
+    .main-start{
+        padding-left: 250px;
+    }
+  }
+.welcome-ethereonite{
+    
+width: auto;
+height: 10rem;
+margin-left: 46%;
+
+
+}
+
+.welcome-start{
+    text-align: center;
+    color: #f1f1f1;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 400%;
+    padding-top: 3rem;
+
+}
+
+.start-grid{
+    margin-top: 5rem;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}

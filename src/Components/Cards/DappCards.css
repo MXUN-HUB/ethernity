@@ -1,0 +1,18 @@
+.card-container-welcome{
+    padding: 1rem;
+    padding-left: 3rem;
+    background: #272627;
+    border-radius: 20px;
+    color: rgba(255, 255, 255, 0.6);
+    width: 20rem;
+    margin: 30px ;
+}
+
+.content-welcome{
+    padding-top: 0.4rem;
+    font-size: 150%;
+    color: #f1f1f1;
+}
+.card-container-welcome:hover{
+    transform: translateY(5px)
+}
